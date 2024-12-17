@@ -1,0 +1,13 @@
+{
+    "name": "db-lab-2",
+    "version": "1.0.0",
+    "scripts": {
+        "mongoDB": "node mongoDB.js",
+        "postgreSQL": "node postgreSQL.js"
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "mongodb": "^4.1.0",
+        "pg": "^8.13.1"
+    }
+}
